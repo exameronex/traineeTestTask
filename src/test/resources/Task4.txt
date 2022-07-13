@@ -1,0 +1,5 @@
+Xpath
+//button[@class = 'search3__button mini-suggest__button' and @aria-label='Найти']
+
+CSS селектор
+.search3__button.mini-suggest__button[aria-label="Найти"]
